@@ -9,11 +9,11 @@ public class EaglercraftVersion {
 	
 	/// Customize these to fit your fork:
 	
-	public static final String projectForkName = "EaglercraftX";
-	public static final String projectForkVersion = "u34";
-	public static final String projectForkVendor = "lax1dude";
+	public static final String projectForkName = "Jayden's EaglercraftX Fork";
+	public static final String projectForkVersion = "1.0.0 (based on u34)";
+	public static final String projectForkVendor = "jdloghead";
 	
-	public static final String projectForkURL = "https://gitlab.com/lax1dude/eaglercraftx-1.8";
+	public static final String projectForkURL = "https://github.com/jdloghead/eaglercraft-1.8";
 	
 	//////////////////////////////////////////////////////////////////////
 	
@@ -56,10 +56,10 @@ public class EaglercraftVersion {
 
 	public static final long demoWorldSeed = (long) "North Carolina".hashCode();
 
-	public static final boolean mainMenuEnableGithubButton = false;
+	public static final boolean mainMenuEnableGithubButton = true;
 
 	public static final boolean forceDemoMode = false;
 
-	public static final String localStorageNamespace = "_eaglercraftX";
+	public static final String localStorageNamespace = "_JaydensEaglercraftX";
 
 }
