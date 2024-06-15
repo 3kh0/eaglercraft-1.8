@@ -1,3 +1,7 @@
+This fork was made possible by:
+Jayden: Made the fork
+q13x: Made cool servers.
+lax1dude: Made Eaglercraft as a whole.
 
  EaglercraftX Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
