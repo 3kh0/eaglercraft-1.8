@@ -8,7 +8,6 @@ public class EaglercraftVersion {
 	//////////////////////////////////////////////////////////////////////
 	
 	/// Customize these to fit your fork:
-	
 	public static final String projectForkName = "Jayden's EaglercraftX Fork";
 	public static final String projectForkVersion = "1.0.0 (based on u34)";
 	public static final String projectForkVendor = "jdloghead";
@@ -20,7 +19,7 @@ public class EaglercraftVersion {
 	public static final String projectOriginName = "EaglercraftX";
 	public static final String projectOriginAuthor = "lax1dude";
 	public static final String projectOriginRevision = "1.8";
-	public static final String projectOriginVersion = "u34";
+	public static final String projectOriginVersion = "u35";
 	
 	public static final String projectOriginURL = "https://gitlab.com/lax1dude/eaglercraftx-1.8"; // rest in peace
 	
@@ -31,7 +30,7 @@ public class EaglercraftVersion {
 	public static final boolean enableUpdateService = true;
 
 	public static final String updateBundlePackageName = "net.lax1dude.eaglercraft.v1_8.client";
-	public static final int updateBundlePackageVersionInt = 34;
+	public static final int updateBundlePackageVersionInt = 35;
 
 	public static final String updateLatestLocalStorageKey = "latestUpdate_" + updateBundlePackageName;
 
